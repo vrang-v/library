@@ -1,6 +1,5 @@
-package chapter1;
+package chapter1.improved;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class TicketOffice

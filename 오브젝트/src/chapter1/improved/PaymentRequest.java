@@ -1,11 +1,11 @@
-package chapter1;
+package chapter1.improved;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 @Getter
 @AllArgsConstructor
-public class TicketSeller
+public class PaymentRequest
 {
-    private final TicketOffice ticketOffice;
+    private Long fee;
 }
