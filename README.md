@@ -8,9 +8,9 @@
 
 - [**오브젝트**](https://github.com/vrang-v/library/tree/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)
 ```
-💡 객체지향 프로그래밍의 모든 것 💡
+🚀 객체지향 프로그래밍 여정의 시작 🚀
 
-📆 기간 : 2021년 01월 14일 ~ ing...
+📆 기간 : 2021년 01월 14일 ~ 2021년 02월 03일
 ```
 
 - [**스프링 부트와 AWS로 혼자 구현하는 웹 서비스**](https://github.com/vrang-v/springboot-webservice-demo)
