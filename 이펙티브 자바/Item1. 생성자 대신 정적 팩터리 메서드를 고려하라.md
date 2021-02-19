@@ -9,7 +9,7 @@
 
 ### 장점 1. 시그니처가 같아 생성자를 만들 수 없는 문제를 해결할 수 있다.
 
-생성자를 이용해 객체를 만들 때, 시그니처가 같은 2개의 생성자를 만들경우 오버로딩이 불가능한 문제가 발생한다..
+생성자를 이용해 객체를 만들 때, 시그니처가 같은 2개의 생성자를 만들경우 오버로딩이 불가능한 문제가 발생한다.
 ```java
 public class User 
 {
@@ -17,7 +17,7 @@ public class User
     private String name;
 }
 ```
-```User```클래스에서, ```id```만 입력받는 생성자와 ```name```만 입력받는 생성자를 동시에 만들 수 없는 문제점이 발생한다..
+```User```클래스에서, ```id```만 입력받는 생성자와 ```name```만 입력받는 생성자를 동시에 만들 수 없는 문제점이 발생한다.
 
 ```java
 // 아래 생성자는 중복으로 사용이 불가능하고 하나만 선택가능하다.
@@ -107,7 +107,7 @@ Company amazon = Company.amazon( );
 public class Amazon implements Company { ... }
 ```
 ```java
-public class AmazonWebService implements Company { }
+public class AmazonWebService implements Company { ... }
 ```
 ```java
 public interface Company
