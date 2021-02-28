@@ -14,4 +14,6 @@
 
 ##### 아이템 7. [다 쓴 객체 참조를 해제하라](https://bit.ly/2ZTrEEq)
 
-##### 아이템 8. [finalizer와 cleaner 사용을 피하라]()
+##### 아이템 8. [finalizer와 cleaner 사용을 피하라](https://bit.ly/3sze3y7)
+
+##### 아이템 9. [try-with-resources를 사용하라]()
