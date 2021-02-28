@@ -16,4 +16,8 @@
 
 ##### 아이템 8. [finalizer와 cleaner 사용을 피하라](https://bit.ly/3sze3y7)
 
-##### 아이템 9. [try-with-resources를 사용하라]()
+##### 아이템 9. [try-with-resources를 사용하라](https://github.com/vrang-v/library/blob/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94/Item9.%20try-with-resources%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
+
+### 모든 객체의 공통 메서드
+
+##### 아이템 10. [equals 일반 규약을 지켜 재정의하라]()
