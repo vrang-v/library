@@ -24,4 +24,6 @@
 
 ##### 아이템 10. [equals 일반 규약을 지켜 재정의하라](https://bit.ly/3kzlHpw)
 
-##### 아이템 11. [equals를 재정의 하려거든 hashcode도 함께 재정의하라]()
+##### 아이템 11. [equals를 재정의 하려거든 hashcode도 함께 재정의하라](https://bit.ly/3uQujgj)
+
+##### 아이템 12. [toString을 항상 재정의하라]()
